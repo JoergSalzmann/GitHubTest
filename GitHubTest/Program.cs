@@ -17,7 +17,7 @@ namespace GitHubTest
 
             Console.WriteLine("This is an inline '" + Text123 + "' TEST");
             Console.WriteLine($"This is an inline '{Text123}' TEST");
-            Tauschen();
+            Tauschen(); 
         }
 
         static void Test()
