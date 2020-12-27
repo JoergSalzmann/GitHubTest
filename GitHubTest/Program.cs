@@ -11,6 +11,7 @@ namespace GitHubTest
             Test();
             NewFunctions();
             Console.WriteLine("Last change today");
+            Console.WriteLine("Änderung am Firmen-PC");
         }
 
         static void Test()
