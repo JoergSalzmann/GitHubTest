@@ -10,6 +10,7 @@ namespace GitHubTest
 
             Test();
             NewFunctions();
+            Console.WriteLine("Last change today");
         }
 
         static void Test()
