@@ -17,6 +17,7 @@ namespace GitHubTest
 
             Console.WriteLine("This is an inline '" + Text123 + "' TEST");
             Console.WriteLine($"This is an inline '{Text123}' TEST");
+            Tauschen();
         }
 
         static void Test()
@@ -30,6 +31,15 @@ namespace GitHubTest
         {
             Console.WriteLine("New functions");
             Console.WriteLine("Noch eine Änderung");
+        }
+
+        static void Tauschen()
+        {
+            var a = 1;
+            var b = 2;
+            Console.WriteLine(a + " - " + b);
+            (a, b) = (b, a);
+            Console.WriteLine(a + " - " + b);
         }
     }
 }
