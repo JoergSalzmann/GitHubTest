@@ -12,6 +12,11 @@ namespace GitHubTest
             NewFunctions();
             Console.WriteLine("Last change today");
             Console.WriteLine("Änderung am Firmen-PC Nummer 2");
+
+            string Text123 = "info";
+
+            Console.WriteLine("This is an inline '" + Text123 + "' TEST");
+            Console.WriteLine($"This is an inline '{Text123}' TEST");
         }
 
         static void Test()
