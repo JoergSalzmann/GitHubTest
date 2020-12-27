@@ -9,6 +9,7 @@ namespace GitHubTest
             Console.WriteLine("Hello World!");
 
             Test();
+            NewFunctions();
         }
 
         static void Test()
@@ -16,6 +17,11 @@ namespace GitHubTest
             Console.WriteLine("This is a test programm");
             int x = 5 - 3;
             Console.WriteLine("5 - 3 = " + x);
+        }
+
+        static void NewFunctions()
+        {
+            Console.WriteLine("New functions");
         }
     }
 }
