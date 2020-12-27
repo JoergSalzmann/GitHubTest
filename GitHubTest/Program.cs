@@ -22,6 +22,7 @@ namespace GitHubTest
         static void NewFunctions()
         {
             Console.WriteLine("New functions");
+            Console.WriteLine("Noch eine Änderung");
         }
     }
 }
