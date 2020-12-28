@@ -33,7 +33,7 @@ namespace GitHubTest
         {
             Console.WriteLine("New functions");
             Console.WriteLine("Noch eine Änderung");
-            Console.WriteLine("Maintenance!");
+            Console.WriteLine("Maintenance! noch einen Fehler behoben");
         }
 
         static void Tauschen()
