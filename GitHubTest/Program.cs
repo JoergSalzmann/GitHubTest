@@ -25,6 +25,8 @@ namespace GitHubTest
             Console.WriteLine("Hier wird weiterentwicklet5");
 
             //Firmen-PC
+            //Home-PC
+
             Tauschen(); 
         }
 
