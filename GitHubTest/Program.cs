@@ -26,6 +26,7 @@ namespace GitHubTest
 
             //Firmen-PC
             //Home-PC
+            //Firmen-NB
 
             Tauschen(); 
         }
