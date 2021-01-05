@@ -22,7 +22,7 @@ namespace GitHubTest
             Console.WriteLine("Hier wird weiterentwicklet2b");
             Console.WriteLine("Hier wird weiterentwicklet3c");
             Console.WriteLine("Hier wird weiterentwicklet4d");
-            Console.WriteLine("Hier wird weiterentwicklet5efdgh");
+            Console.WriteLine("Hier wird weiterentwicklet5ef");
 
             //Firmen-PC
             //Home-PC
