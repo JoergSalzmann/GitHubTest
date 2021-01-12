@@ -7,6 +7,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("RELEASE 21 R1.1");
+            Console.WriteLine("Änderung 1");
         }
     }
 }
