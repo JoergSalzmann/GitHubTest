@@ -18,6 +18,7 @@ namespace GitHubTest
             Console.WriteLine("Änderung 1");
             Console.WriteLine("Änderung 2");
             Console.WriteLine("Änderung 3");
+            Console.WriteLine("Änderung 4");
         }
     }
 }
