@@ -21,9 +21,9 @@ namespace GitHubTest
             Console.WriteLine("Änderung 4");
             Console.WriteLine("RELEASE 21 R4.1");
             Console.WriteLine("Änderung 1");
-            //Squash 1
-            //Squash 2
-            //Squash 3
+            //Squash 1---
+            //Squash 2---
+            //Squash 3---
         }
     }
 }
