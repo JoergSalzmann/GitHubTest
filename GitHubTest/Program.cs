@@ -24,6 +24,30 @@ namespace GitHubTest
             //Squash 1---
             //Squash 2---
             //Squash 3---
+            TestA();
+            TestB();
+            TestC();
+            TestD();
+        }
+
+        static void TestA()
+        {
+
+        }
+
+        static void TestB()
+        {
+
+        }
+
+        static void TestC()
+        {
+
+        }
+
+        static void TestD()
+        {
+
         }
     }
 }
