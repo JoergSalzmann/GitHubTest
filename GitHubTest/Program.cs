@@ -32,7 +32,7 @@ namespace GitHubTest
 
         static void TestA()
         {
-
+            //Dies ist ein Test
         }
 
         static void TestB()
