@@ -37,7 +37,7 @@ namespace GitHubTest
 
         static void TestB()
         {
-            //Dies ist ein Test
+
         }
 
         static void TestC()
